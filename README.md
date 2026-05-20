@@ -11,27 +11,24 @@
 # 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,java,js" />
-</p>
-rity
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,kali" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://skillicons.dev/icons?i=sklearn" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,docker,git,github" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,flask,django,react" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,react,flask,django,fastapi,mysql,postgres,mongodb,linux,docker,git,github,azure,tensorflow,pytorch,sklearn" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20NiFi-017CEE?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security%20Monitoring-1E1E1E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Log%20Analysis-4B0082?style=for-the-badge"/>
+</p>
 ## 📊 GitHub Stats
 
 <div align="center">
