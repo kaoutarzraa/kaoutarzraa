@@ -47,9 +47,9 @@ rity
 
 ## 📫 How to reach me:
 
-- 💼 [LinkedIn[(https://www.linkedin.com/in/kaoutar-zraa-880756288/)
-- 🌐 [Portfolio Website] [(https://kaoutar-zraa.netlify.app/)]
-- 🐙 [GitHub](https://github.com/kaoutarzraa)
+- 💼 LinkedIn: (https://www.linkedin.com/in/kaoutar-zraa-880756288/)
+- 🌐 Portfolio Website: [(https://kaoutar-zraa.netlify.app/)]
+- 🐙 GitHub: (https://github.com/kaoutarzraa)
 - 📧 Email: zraakaoutar@gmail.com
 
 ---
